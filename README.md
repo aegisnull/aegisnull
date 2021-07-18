@@ -1,9 +1,22 @@
-<h1 align="center">Hi 👋, I'm AegisNull</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-- 💬 Ask me about **Marketing, Design, Business Administration**
+### <div align="center">I'm AegisNull, a passionate frontend developer 👨‍💻</div>  
+  
 
-- 🌱 I’m currently learning **Japanese, TailwindCSS**
+- 💬 Ask me about Marketing, Design, Business Administration  
+  
+
+- 🌱 I’m currently learning Japanese, TailwindCSS  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
+<br/>  
+
 
 
 ## My Skill Set  
