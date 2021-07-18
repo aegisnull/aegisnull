@@ -62,6 +62,4 @@
 </td></tr></table>  
 
 <br/>  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aegisnull&show_icons=true&locale=en&layout=compact" alt="aegisnull" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aegisnull&" alt="aegisnull" /></p>
