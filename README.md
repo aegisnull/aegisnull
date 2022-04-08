@@ -14,8 +14,6 @@
 const mx = {
   pronouns: "he" | "him",
   code: [HTML, CSS, Javascript],
-  tools: [React, Redux, Node],
-  architecture: ["microservices", "design system pattern"],
   techCommunities: {
                         community: "DevTo",
                         blog: "yes",
