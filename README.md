@@ -14,7 +14,7 @@
 const mx = {
   pronouns: "he" | "him",
   code: [HTML, CSS, SASS, Javascript],
-  tools: [Figma],
+  tools: [Figma, VSCode],
   techCommunities: {
                         community: "DevTo",
                         blog: "yes",
