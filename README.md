@@ -13,7 +13,8 @@
 ```javascript
 const mx = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, Javascript],
+  code: [HTML, CSS, SASS, Javascript],
+  tools: [Figma],
   techCommunities: {
                         community: "DevTo",
                         blog: "yes",
