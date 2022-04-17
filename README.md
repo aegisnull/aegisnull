@@ -3,7 +3,7 @@
 <p><em>Currently studying at <a href="https://practicum.yandex.com">Practicum by Yandex</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Business Consultant at <a href="#">LT Consultoria</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: AegisNull](https://img.shields.io/twitter/follow/AegisNull?style=social)](https://twitter.com/aegisnull)
+[![Twitter: LuisTellezDev](https://img.shields.io/twitter/follow/LuisTellezDev?style=social)](https://twitter.com/LuisTellezDev)
 [![Linkedin: luistellezvi](https://img.shields.io/badge/-luistellezvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/aegisnull/)
 [![GitHub aegisnull](https://img.shields.io/github/followers/aegisnull?label=follow&style=social)](https://github.com/aegisnull)
 
@@ -18,7 +18,7 @@ const mx = {
   techCommunities: {
                         community: "DevTo",
                         blog: "yes",
-                        url: "pending"
+                        url: "https://dev.to/aegisnull"
                       },
  challenge: "I am doing the Practicum by Yandex bootcamp to become a full stack developer"
 }
