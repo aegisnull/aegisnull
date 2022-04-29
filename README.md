@@ -15,10 +15,10 @@ const mx = {
   pronouns: "he" | "him",
   code: [HTML, CSS, SASS, Javascript],
   tools: [Figma, VSCode],
-  techCommunities: {
-                        community: "DevTo",
-                        blog: "yes",
-                        url: "https://dev.to/aegisnull"
+  Languages: {
+                        Spanish: "Native/C2",
+                        English: "Advanced/C1",
+                        Japanese: "Basic/N5"
                       },
  challenge: "I am doing the Practicum by Yandex bootcamp to become a full stack developer"
 }
