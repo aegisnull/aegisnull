@@ -1,4 +1,4 @@
-<h2> Hi, I'm AegisNull, an aspiring full stack developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm AegisNull, an aspiring front-end developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media2.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="230">
 <p><em>Currently studying at <a href="https://practicum.yandex.com">Practicum by Yandex</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Business Consultant at <a href="#">LT Consultoria</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
