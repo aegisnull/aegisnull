@@ -3,9 +3,17 @@
 <p><em>Graduated from <a href="https://practicum.yandex.com">Practicum by Yandex</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Business Consultant at <a href="#">LT Consultoria</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: LuisTellezDev](https://img.shields.io/twitter/follow/LuisTellezDev?style=social)](https://twitter.com/LuisTellezDev)
-[![Linkedin: luistellezvi](https://img.shields.io/badge/-luistellezvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/aegisnull/)
-[![GitHub aegisnull](https://img.shields.io/github/followers/aegisnull?label=follow&style=social)](https://github.com/aegisnull)
+<div align="left">
+<a href="https://github.com/aegisnull" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/luistellezdev" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/luistellezv" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -13,7 +21,9 @@
 ```javascript
 const mx = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, SASS, Javascript],
+  frontend: [HTML, CSS, SASS, Javascript, React, BEM, WebPack, Jest],
+  backend: [Git, NGINX, NodeJS, ExpressJS, MongoDB],
+  devOPS: [Google Cloud Platform, OVH, AWS, Linux],
   tools: [Figma, VSCode, WebStorm, Webpack],
   Languages: {
                         Spanish: "Native/C2",
