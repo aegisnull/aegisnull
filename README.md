@@ -21,7 +21,7 @@
 ```javascript
 const mx = {
   pronouns: "he" | "him",
-  frontend: [HTML, CSS, SASS, Javascript, React, BEM, WebPack, Jest],
+  frontend: [HTML, CSS, SASS, Javascript, React, BEM, WebPack, Vite, Vitest, Jest],
   backend: [Git, NGINX, NodeJS, ExpressJS, MongoDB],
   devOPS: [Google Cloud Platform, OVH, AWS, Linux],
   tools: [Figma, VSCode, WebStorm, Webpack],
