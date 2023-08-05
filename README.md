@@ -1,40 +1,42 @@
-<h2> Hi, I'm AegisNull, a front-end developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+# 👋 Hey there, I'm AegisNull – Front-End Developer
+
 <img align='right' src="https://media2.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="230">
-<p><em>Graduated from <a href="https://practicum.yandex.com">Practicum by Yandex</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Business Consultant at <a href="#">LT Consultoria</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
+## About Me
+
+Hello there! I'm AegisNull, a passionate front-end developer and visionary business consultant. With a diploma from [Practicum by Yandex](https://practicum.yandex.com), I've honed my skills in transforming ideas into captivating digital experiences. At [LT Consultoria](#), I bring the power of technology and business strategy together, fueling innovation and driving growth.
+
+## Let's Connect
 
 <div align="left">
-<a href="https://github.com/aegisnull" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/luistellezdev" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/luistellezv" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://github.com/aegisnull" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" /></a>
+  <a href="https://twitter.com/luistellezdev" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" /></a>
+  <a href="https://linkedin.com/in/luistellezv" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" /></a>
 </div>  
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## Tech Stack
 
 ```javascript
 const mx = {
   pronouns: "he" | "him",
-  frontend: [HTML, CSS, SASS, Javascript, React, BEM, WebPack, Vite, Vitest, Jest],
-  backend: [Git, NGINX, NodeJS, ExpressJS, MongoDB],
-  devOPS: [Google Cloud Platform, OVH, AWS, Linux],
-  tools: [Figma, VSCode, WebStorm, Webpack],
-  Languages: {
-                        Spanish: "Native/C2",
-                        English: "Advanced/C1",
-                        Japanese: "Basic/N5"
-                      },
- challenge: "I am currently learning TypeScript"
+  frontend: ["HTML", "CSS", "SASS", "Javascript", "React", "BEM", "WebPack", "Vite", "Vitest", "Jest"],
+  backend: ["Git", "NGINX", "NodeJS", "ExpressJS", "MongoDB"],
+  devOPS: ["Google Cloud Platform", "OVH", "AWS", "Linux"],
+  tools: ["Figma", "VSCode", "WebStorm", "Webpack"],
+  languages: {
+    Spanish: "Native/C2",
+    English: "Advanced/C1",
+    Japanese: "Basic/N5"
+  },
+  challenge: "I'm currently immersing myself in TypeScript"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+## What Drives Me
 
---- 
+I'm not just a developer; I'm an artist crafting seamless user experiences with lines of code. I'm a strategist, using technology to forge new business frontiers. I believe in pushing boundaries, embracing challenges, and constantly learning to stay ahead in this dynamic digital landscape.
+
+## Let's Collaborate
+
+Whether it's co-writing lines of code or brainstorming innovative business strategies, I'm always excited about collaborative ventures. Feel free to reach out if you're into coding, design, or if you just want to say hello – let's connect and shape the future together! 😄
 
